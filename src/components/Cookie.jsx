@@ -1,5 +1,5 @@
 import { useState } from "react";
-import cookie from "C:/Users/Kursdeltaker/Desktop/code/Cookie-on-a-button/public/cookie-1.png";
+import cookie from "../assets/cookie-1.png";
 
 export const Cookie = () => {
   const [count, setCount] = useState(0);
