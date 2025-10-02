@@ -12,7 +12,7 @@ export const Cookie = () => {
         <img src={cookie} className="logo" />
       </button>
 
-      <h1 className="read-the-docs"> This is stupid</h1>
+      <h1 className="read-the-docs"> This is beautiful</h1>
     </>
   );
 };
